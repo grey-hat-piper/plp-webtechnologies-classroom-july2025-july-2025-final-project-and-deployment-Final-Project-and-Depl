@@ -60,8 +60,7 @@ Below is a preview of the VerdantLink AgriTech website:
 
 ![VerdantLink AgriTech Website Preview](images/website-preview.png)
 
-*For a live experience, visit the [demo link]([https://your-username.github.io/verdantlink-agritech](https://grey-hat-piper.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)).*
-
+*For a live experience, visit the [demo link]https://github.com/grey-hat-piper/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/edit/main/README_VerdantLink.md
 ## 🧠 Project Purpose
 
 This project was built as part of a **Final Assignment** for demonstrating full-stack web development skills, including:
